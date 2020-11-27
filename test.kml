@@ -1,126 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
-<name>Worldview Snapshot</name>
-<open>1</open>
-<Style id="LayerFolder_check">
-<ListStyle>
-</ListStyle>
-</Style>
-<Folder>
-<name>Weather</name>
-<Placemark>
-<name>Batemans Bay</name>
-<description>18/09/20:Cloudy with a high of 17 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>150.1795,-35.7144,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Corryong</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>147.9023,-36.1967,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Sydney</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>150.65,-33.84,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Mount Barker</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>138.830,-35.081,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Lameroo</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>140.170,-35.276,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Mildura</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>142.063,-34.210,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Balranald</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>142.827,-34.327,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Wedderburn</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>143.528,-36.424,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Adelaide</name>
-<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
-<Point>
-<coordinates>138.330,-34.999,0</coordinates>
-</Point>
-</Placemark>
-
-<Placemark>
-<name>Mallacoota</name>
-<description>18/09/20:Cloudy with a high of 17 °C and a low of 9 °C.</description>
-<Point>
-<coordinates>149.7500,-37.5500,0</coordinates>
-</Point>
-</Placemark>
-</Folder>
-<Folder>
-<name>MODIS_Terra_CorrectedReflectance_TrueColor</name>
-<open>1</open>
-<styleUrl>#LayerFolder_check</styleUrl>
-<GroundOverlay>
-<name>MODIS_Terra_CorrectedReflectance_TrueColor</name>
-<Icon>
-<href>MODIS_Terra_CorrectedReflectance_TrueColor-2020-09-18T00_00_00Z.png</href>
-</Icon>
-<LatLonBox>
-<north>-35.62259272704523</north>
-<south>-37.86876774999929</south>
-<east>-208.8634954517195</east>
-<west>-212.6535807529809</west>
-</LatLonBox>
-</GroundOverlay>
-</Folder>
-<Folder>
-<name>Reference_Labels</name>
-<styleUrl>#LayerFolder_check</styleUrl>
-<GroundOverlay>
-<name>Reference_Labels</name>
-<Icon>
-<href>Reference_Labels-2020-09-18T00_00_00Z.png</href>
-</Icon>
-<LatLonBox>
-<north>-35.62259272704523</north>
-<south>-37.86876774999929</south>
-<east>-208.8634954517195</east>
-<west>-212.6535807529809</west>
-</LatLonBox>
-</GroundOverlay>
-</Folder>
-</Document>
+<kml
+    xmlns="http://www.opengis.net/kml/2.2"
+    xmlns:gx="http://www.google.com/kml/ext/2.2"
+    xmlns:kml="http://www.opengis.net/kml/2.2"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Worldview Snapshot</name>
+        <open>1</open>
+        <Style id="LayerFolder_check">
+            <ListStyle></ListStyle>
+        </Style>
+        <Folder>
+            <name>Weather</name>
+            <Placemark>
+                <name>Batemans Bay</name>
+                <description>18/09/20:Cloudy with a high of 17 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>150.1795,-35.7144,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Corryong</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>147.9023,-36.1967,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Sydney</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>150.65,-33.84,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Mount Barker</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>138.830,-35.081,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Lameroo</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>140.170,-35.276,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Mildura</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>142.063,-34.210,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Balranald</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>142.827,-34.327,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Wedderburn</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>143.528,-36.424,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Adelaide</name>
+                <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+                <Point>
+                    <coordinates>138.330,-34.999,0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <name>Mallacoota</name>
+                <description>18/09/20:Cloudy with a high of 17 °C and a low of 9 °C.</description>
+                <Point>
+                    <coordinates>149.7500,-37.5500,0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
 </kml>
