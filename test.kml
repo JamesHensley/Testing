@@ -42,6 +42,14 @@
 </Placemark>
 
 <Placemark>
+<name>Lameroo</name>
+<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+<Point>
+<coordinates>140.170,-35.276,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
 <name>Adelaide</name>
 <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
 <Point>
