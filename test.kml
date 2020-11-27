@@ -5,11 +5,7 @@
     xmlns:kml="http://www.opengis.net/kml/2.2"
     xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
-        <name>Worldview Snapshot</name>
-        <open>1</open>
-        <Style id="LayerFolder_check">
-            <ListStyle></ListStyle>
-        </Style>
+        <name>Test Map Dynamic</name>
         <Folder>
             <name>Weather</name>
             <Placemark>
