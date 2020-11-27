@@ -58,6 +58,22 @@
 </Placemark>
 
 <Placemark>
+<name>Balranald</name>
+<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+<Point>
+<coordinates>142.827,-34.327,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Wedderburn</name>
+<description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
+<Point>
+<coordinates>143.528,-36.424,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
 <name>Adelaide</name>
 <description>18/09/20:Rainy with a high of 22 °C and a low of 10 °C.</description>
 <Point>
