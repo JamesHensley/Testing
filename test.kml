@@ -6,6 +6,10 @@
     xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
         <name>Test Map Dynamic</name>
+        <open>1</open>
+        <Style id="LayerFolder_check">
+            <ListStyle></ListStyle>
+        </Style>
         <Folder>
             <name>Weather</name>
             <Placemark>
