@@ -14,13 +14,13 @@
 		</StyleMap>
 		<Style id="dir_route0">
 			<LineStyle>
-				<color>7f0055ff</color>
+				<color>7f4ee2ff</color>
 				<width>6</width>
 			</LineStyle>
 		</Style>
 		<Style id="dir_route1">
 			<LineStyle>
-				<color>7f0055ff</color>
+				<color>7f4ee2ff</color>
 				<width>6</width>
 			</LineStyle>
 		</Style>
