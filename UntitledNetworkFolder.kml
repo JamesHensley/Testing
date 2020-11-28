@@ -13,5 +13,10 @@
 		<open>1</open>
 		<Link><href>https://raw.githubusercontent.com/JamesHensley/Testing/main/Route2.kml</href></Link>
 	</NetworkLink>
+	<NetworkLink>
+		<name>Link 3</name>
+		<open>1</open>
+		<Link><href>https://raw.githubusercontent.com/JamesHensley/Testing/main/Route3.kml</href></Link>
+	</NetworkLink>
 </Folder>
 </kml>
