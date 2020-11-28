@@ -14,14 +14,14 @@
 	</StyleMap>
 	<Style id="dir_route0">
 		<LineStyle>
-			<color>7f005599</color>
-			<width>6</width>
+			<color>7fff0000</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="dir_route1">
 		<LineStyle>
-			<color>7f0055ff</color>
-			<width>6</width>
+			<color>7fff0000</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Placemark id="1.4.2">
