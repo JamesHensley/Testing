@@ -6,16 +6,12 @@
 	<NetworkLink>
 		<name>Link 1</name>
 		<open>1</open>
-		<Link>
-			<href>https://raw.githubusercontent.com/JamesHensley/Testing/main/Route1.kml</href>
-		</Link>
+		<Link><href>https://raw.githubusercontent.com/JamesHensley/Testing/main/Route1.kml</href></Link>
 	</NetworkLink>
 	<NetworkLink>
 		<name>Link 2</name>
 		<open>1</open>
-		<Link>
-			<href>https://raw.githubusercontent.com/JamesHensley/Testing/main/Route2.kml</href>
-		</Link>
+		<Link><href>https://raw.githubusercontent.com/JamesHensley/Testing/main/Route2.kml</href></Link>
 	</NetworkLink>
 </Folder>
 </kml>
